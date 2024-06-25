@@ -1,3 +1,32 @@
+<style>
+  .header-background {
+    position: relative;
+    text-align: center;
+    color: white;
+    padding-top: 100px; /* Ajustamos el padding superior para que la imagen no se superponga */
+  }
+
+  .header-background img {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+
+  .header-content {
+    position: relative;
+    z-index: 1;
+  }
+
+  .linkedin-button {
+    position: relative;
+    z-index: 2;
+    margin-top: 20px;
+  }
+</style>
+
 <div class="header-background">
   <img src="https://static8.depositphotos.com/1550726/1052/i/450/depositphotos_10520344-stock-photo-sun-rising-in-a-forest.jpg" alt="Forest">
   <div class="header-content">
