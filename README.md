@@ -1,9 +1,4 @@
-<style>
-  .header-background {
-    position: relative;
-    text-align: center;
-    color: white;
-  }
+
 
   .header-background img {
     width: 100%;
