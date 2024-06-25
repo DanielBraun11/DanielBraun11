@@ -17,7 +17,7 @@
   .header-content {
     position: relative;
     z-index: 1;
-    padding: 50px 0;
+    padding: 100px 0; /* Aumentamos el padding para ajustar al tamaño de la imagen */
   }
 
   .linkedin-button {
@@ -31,12 +31,13 @@
   <img src="https://static8.depositphotos.com/1550726/1052/i/450/depositphotos_10520344-stock-photo-sun-rising-in-a-forest.jpg" alt="Forest">
   <div class="header-content">
     <h1>Hola Mundo 👋🏼</h1>
-    <div class="linkedin-button">
-      <a href="https://www.linkedin.com/in/daniel-braun-sandino-2a49a624b/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-      </a>
-    </div>
   </div>
+</div>
+
+<div align="center" class="linkedin-button">
+  <a href="https://www.linkedin.com/in/daniel-braun-sandino-2a49a624b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
 </div>
 
 <h3 align="left">👩‍💻 About Me</h3>
