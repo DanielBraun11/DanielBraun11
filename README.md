@@ -1,25 +1,5 @@
 
 
-  .header-background img {
-    width: 100%;
-    height: auto;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: -1;
-  }
-
-  .header-content {
-    position: relative;
-    z-index: 1;
-    padding: 100px 0; /* Aumentamos el padding para ajustar al tamaño de la imagen */
-  }
-
-  .linkedin-button {
-    position: relative;
-    z-index: 2;
-    margin-top: 20px;
-  }
 </style>
 
 <div class="header-background">
