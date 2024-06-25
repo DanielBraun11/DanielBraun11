@@ -1,5 +1,4 @@
-<div style="background-image: url(
-https://static8.depositphotos.com/1550726/1052/i/450/depositphotos_10520344-stock-photo-sun-rising-in-a-forest.jpg); background-size: cover; padding: 20px; border-radius: 10px;">
+<div style="background-image: url('https://static8.depositphotos.com/1550726/1052/i/450/depositphotos_10520344-stock-photo-sun-rising-in-a-forest.jpg'); background-size: cover; padding: 20px; border-radius: 10px;">
   <h1>¡Hola, soy Daniel Braun!</h1>
   <p>👋 Bienvenido a mi perfil de GitHub.</p>
 </div>
@@ -14,7 +13,7 @@ https://static8.depositphotos.com/1550726/1052/i/450/depositphotos_10520344-stoc
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning learning computer engineering<br>🎯 Goals: Master as many programming languages as possible and improve my problem-solving skills<br>🎲 Fun fact: I love watching and playing football, and I never miss a match of my favorite team</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning computer engineering<br>🎯 Goals: Master as many programming languages as possible and improve my problem-solving skills<br>🎲 Fun fact: I love watching and playing football, and I never miss a match of my favorite team</p>
 
 ###
 
