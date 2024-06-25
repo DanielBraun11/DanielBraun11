@@ -1,4 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div style="background-image: url(
+https://static8.depositphotos.com/1550726/1052/i/450/depositphotos_10520344-stock-photo-sun-rising-in-a-forest.jpg); background-size: cover; padding: 20px; border-radius: 10px;">
+  <h1>¡Hola, soy Daniel Braun!</h1>
+  <p>👋 Bienvenido a mi perfil de GitHub.</p>
+</div>
 
 ###
 
@@ -24,12 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://www.google.com/imgres?q=imagen%20bosque%20con%20rayos%20de%20sol%20anocheciendo&imgurl=https%3A%2F%2Fst5.depositphotos.com%2F73886316%2F67026%2Fi%2F450%2Fdepositphotos_670268766-stock-photo-dusk-descends-forest-kemlagi-mojokerto.jpg&imgrefurl=https%3A%2F%2Fdepositphotos.com%2Fes%2Fphotos%2Fbosque-atardecer.html&docid=cs_jnQTb34dLDM&tbnid=Ga2zggw6PKabsM&vet=12ahUKEwjogbTOtPeGAxUowAIHHa4tBnsQM3oECGcQAA..i&w=600&h=400&hcb=2&ved=2ahUKEwjogbTOtPeGAxUowAIHHa4tBnsQM3oECGcQAA"  />
 </div>
 
 ###
