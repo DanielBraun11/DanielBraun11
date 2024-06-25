@@ -1,7 +1,3 @@
-
-
-</style>
-
 <div class="header-background">
   <img src="https://static8.depositphotos.com/1550726/1052/i/450/depositphotos_10520344-stock-photo-sun-rising-in-a-forest.jpg" alt="Forest">
   <div class="header-content">
