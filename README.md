@@ -10,11 +10,9 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DanielBraun11.DanielBraun11&left_color=darkgrey&right_color=darkviolet&left_text=DanielBraun11"  />
-</div>
+
+
 
 ###
 
