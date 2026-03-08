@@ -14,7 +14,7 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-<p align="left">My name is Daniel Braun, and I am 21 years old. I have been studying computer engineering at the university for 2 years and also learning on my own from home. I enjoy learning new things and sharing my knowledge with people who share my passion for programming.<br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning computer engineering<br>🎯 Goals: Master as many programming languages as possible and improve my problem-solving skills<br>🎲 Fun fact: I love watching and playing football, and I never miss a match of my favorite team</p>
+<p align="left">My name is Daniel Braun, and I am 22 years old. I have been studying computer engineering at the university for 4 years and also learning on my own from home. I enjoy learning new things and sharing my knowledge with people who share my passion for programming.<br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning computer engineering<br>🎯 Goals: Master as many programming languages as possible and improve my problem-solving skills<br>🎲 Fun fact: I love watching and playing football, and I never miss a match of my favorite team</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
