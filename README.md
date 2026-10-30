@@ -1,10 +1,13 @@
-  
-  <div class="header-content">
-    <h1>Hola Mundo 👋🏼👨‍💻👾</h1>
-  </div>
+<div align="center">
+  <a href="https://github.com/DanielBraun11/DanielBraun11">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielBraun11/DanielBraun11/main/dark_mode.svg">
+      <img alt="Daniel Braun's GitHub Profile README" src="https://raw.githubusercontent.com/DanielBraun11/DanielBraun11/main/light_mode.svg" width="100%">
+    </picture>
+  </a>
 </div>
 
-
+<br>
 
 <div align="center" class="linkedin-button">
   <a href="https://www.linkedin.com/in/daniel-braun-sandino-2a49a624b/" target="_blank">
